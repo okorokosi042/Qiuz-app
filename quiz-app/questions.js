@@ -1,0 +1,17 @@
+export const questions = [
+  {
+    question: "What is the capital of France?",
+    options: ["Berlin", "Madrid", "Paris", "Rome"],
+    answer: "Paris"
+  },
+  {
+    question: "Which planet is the Red Planet?",
+    options: ["Earth", "Mars", "Jupiter", "Venus"],
+    answer: "Mars"
+  },
+  {
+    question: "What is 5 + 7?",
+    options: ["10", "11", "12", "13"],
+    answer: "12"
+  }
+];
